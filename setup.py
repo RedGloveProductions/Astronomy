@@ -5,13 +5,13 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="astro_constants",
-    version="1.0.0",
+    version="1.2.0",
     description="A Python library for common astronomical and physical constants",
     long_description=long_description,
     long_description_content_type="text/markdown",  # Explicitly specify Markdown format
-    author="Your Name",
-    author_email="your.email@example.com",
-    url="https://github.com/YourUsername/Astronomy",  # Replace with your repo URL
+    author="JoeStem",
+    author_email="JoeStem25@gmail.com",
+    url="https://github.com/RedGloveProductions/Astronomy",  # Replace with your repo URL
     packages=find_packages(),
     classifiers=[
         "Programming Language :: Python :: 3",
