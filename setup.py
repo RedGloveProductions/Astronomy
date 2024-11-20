@@ -5,7 +5,7 @@ with open("README.md", "r", encoding="utf-8") as fh:
 
 setup(
     name="astro_constants",
-    version="1.3.0",
+    version="1.5.0",
     description="A Python library for common astronomical and physical constants",
     long_description=long_description,
     long_description_content_type="text/markdown",  # Explicitly specify Markdown format
