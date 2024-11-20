@@ -5,4 +5,4 @@ This library provides a collection of common astronomical and physical constants
 ## Installation
 Install the library locally with:
 ```bash
-pip install .
+pip install constants
